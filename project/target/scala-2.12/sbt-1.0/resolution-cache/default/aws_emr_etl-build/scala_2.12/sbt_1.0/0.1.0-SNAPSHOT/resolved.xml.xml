@@ -4,7 +4,7 @@
 		module="aws_emr_etl-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190311222738"
+		publication="20190324212932"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

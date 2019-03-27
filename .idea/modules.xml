@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/aws_emr_etl.iml" filepath="$PROJECT_DIR$/.idea/modules/aws_emr_etl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aws_emr_etl-build.iml" filepath="$PROJECT_DIR$/.idea/modules/aws_emr_etl-build.iml" />
     </modules>
   </component>
 </project>
